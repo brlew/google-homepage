@@ -39,3 +39,67 @@
 	height: 400px;
 	width: 200px;
 }
+
+#Search {
+	padding:5px;
+	margin-right: 75px;
+}
+
+#Search:hover {
+	color:black;
+}
+
+#lucky {
+	padding:5px;
+}
+
+#lucky:hover {
+	color:black;
+}
+
+#search-buttons-container {
+	width:400px;
+	transform: translate(50px,0);
+	padding: 0 50px;
+}
+
+#search-bar {
+	width:400px;
+	height:25px;
+	margin: 10px 30px;
+}
+
+#viewport img {
+	transform: translate(100px, 0);
+}
+
+li input:hover{
+	background-color: white;
+	color: blue;
+}
+
+a {
+	margin: 5px;
+	text-decoration: none;
+	color: grey;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: black;
+}
+*{
+	padding: 0;
+}
+
+#top-left {
+	margin-left: 5px;
+}
+
+#bottom-left {
+	margin-left: 5px;
+}
+
+footer {
+	background-color: grey;
+}
